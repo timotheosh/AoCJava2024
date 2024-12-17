@@ -1,0 +1,8 @@
+@import url('./main-layout.css');
+#Answer {
+    color: blue;
+}
+
+#Error {
+    color: red;
+}
